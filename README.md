@@ -60,15 +60,15 @@ O App e bem simples de usar, tendo uma tela de login e uma de cadastro, uma para
 
 
 
-Screen Empty Status:
+## Screen Empty Status:
 ![Empty](react-native/conteletest/assets/second.png)
 
 
 
-Screen Home com informacoes:
+## Screen Home com informacoes:
 ![Infos](react-native/conteletest/assets/third.png)
 
 
 
-Screen Cadastro com informacoes:
+## Screen Cadastro com informacoes:
 ![Cad infos](react-native/conteletest/assets/cad.png)
