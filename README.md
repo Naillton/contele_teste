@@ -20,12 +20,23 @@ Todas as especificações foram atendidas, não consegui fazer o mesmo funcionar
 * Firebase
 * Asynctorage
 
-## Imagens e Uso
+## Uso
+
+Antes de comecar a usar o aplicativo vamos instalar algumas dependencias necessarias, depois de fazer o clone do repositorio vamos abrir um terminal e acessar a pasta do projeto com o comando cd /react-native/conteletest.
+
+Feito isso vamos usar o comando
+
+```
+npm install
+
+```
+
+## Imagens
 
 O App e bem simples de usar, tendo uma tela de login e uma de cadastro, uma para setar a localização atual e enviala para uma Screen de status, e a nossa Screen de Status que guarda as localizaçoes em um local storage asincrono.
 
 Screen Login:
-![Login](react-native/conteletest/assets/login.png width="400" height="790")
+![Login](react-native/conteletest/assets/login.png)
 
 Screen Cadastro:
 ![Cad](react-native/conteletest/assets/cad.png)
