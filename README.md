@@ -45,18 +45,17 @@ npx react-native run-android
 
 O App e bem simples de usar, tendo uma tela de login e uma de cadastro, uma para setar a localização atual e enviala para uma Screen de status, e a nossa Screen de Status que guarda as localizaçoes em um local storage asincrono.
 
-Screen Login:
+## Screen Login:
 ![Login](react-native/conteletest/assets/login.png)
-Screen Login:
 
 
 
-Screen Cadastro:
+## Screen Cadastro:
 ![Cad](react-native/conteletest/assets/cad.png)
 
 
 
-Screen Home:
+## Screen Home:
 ![Home](react-native/conteletest/assets/first.png)
 
 
