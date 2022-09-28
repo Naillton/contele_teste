@@ -24,4 +24,20 @@ Todas as especificações foram atendidas, não consegui fazer o mesmo funcionar
 
 O App e bem simples de usar, tendo uma tela de login e uma de cadastro, uma para setar a localização atual e enviala para uma Screen de status, e a nossa Screen de Status que guarda as localizaçoes em um local storage asincrono.
 
+Screen Login:
 ![Login](react-native/conteletest/assets/login.png)
+
+Screen Cadastro:
+![Cad](react-native/conteletest/assets/cad.png)
+
+Screen Home:
+![Home](react-native/conteletest/assets/first.png)
+
+Screen Empty Status:
+![Empty](react-native/conteletest/assets/second.png)
+
+Screen Home com informacoes:
+![Infos](react-native/conteletest/assets/third.png)
+
+Screen Cadastro com informacoes:
+![Cad infos](react-native/conteletest/assets/cad.png)
