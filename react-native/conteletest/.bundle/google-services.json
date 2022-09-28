@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553098652081",
+    "project_id": "conteletest-33e84",
+    "storage_bucket": "conteletest-33e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553098652081:android:4225793c900fa665a8b590",
+        "android_client_info": {
+          "package_name": "com.conteletest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553098652081-qrkl2f1m7kam3fckh6nrcv7saoa5e27f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkRxi6AN1ubXtLYiC975H7O513U8r5pNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553098652081-qrkl2f1m7kam3fckh6nrcv7saoa5e27f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
