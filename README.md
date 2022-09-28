@@ -22,13 +22,23 @@ Todas as especificações foram atendidas, não consegui fazer o mesmo funcionar
 
 ## Uso
 
-Antes de comecar a usar o aplicativo vamos instalar algumas dependencias necessarias, depois de fazer o clone do repositorio vamos abrir um terminal e acessar a pasta do projeto com o comando cd /react-native/conteletest.
+Antes de começar a usar o aplicativo vamos instalar algumas dependências necessarias, depois de fazer o clone do repositorio, vamos abrir um terminal e acessar a pasta do projeto com o comando cd /react-native/conteletest.
 
-Feito isso vamos usar o comando
+Feito isso vamos usar o comando npm install para instalar as dependências do app.
 
 ```
 npm install
+```
 
+Depois de istalar as dependências usaremos o comando npx react-native start para iniciar o servidor do nosso app.
+
+```
+npx react-native start
+```
+
+Abrimos outra aba o terminal e digitamos o comando npx react-native run-android para instalar o nosso app no emulador ou no smartphone via usb
+```
+npx react-native run-android
 ```
 
 ## Imagens
