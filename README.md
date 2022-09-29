@@ -43,13 +43,11 @@ npx react-native run-android
 ```
 
 Para fazer login ja temos um usuario teste e uma senha configurados.
-
-<h3> User <h3>
+ 
 ```
 ola@gmail.com
 ```
-
-<h3> Senha <h3>
+ 
 ```
 12345678
 ```
