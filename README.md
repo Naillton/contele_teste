@@ -94,4 +94,4 @@ O App e bem simples de usar, tendo uma tela de login e uma de cadastro, uma para
 
 
 ## Screen Cadastro com informacoes:
-![Cad infos](react-native/conteletest/assets/cad.png)
+![Cad infos](react-native/conteletest/assets/fourth.png)
