@@ -36,10 +36,29 @@ Depois de istalar as dependências usaremos o comando npx react-native start par
 npx react-native start
 ```
 
-Abrimos outra aba o terminal e digitamos o comando npx react-native run-android para instalar o nosso app no emulador ou no smartphone via usb
+Abrimos outra aba o terminal e digitamos o comando npx react-native run-android para instalar o nosso app no emulador ou no smartphone via usb.
+
 ```
 npx react-native run-android
 ```
+
+Para fazer login ja temos um usuario teste e uma senha configurados.
+
+<h3> User <h3>
+```
+ola@gmail.com
+```
+
+<h3> Senha <h3>
+```
+12345678
+```
+
+Feito o login temos a nossa tela inicial onde com um cliue podemos definir o nosso intervalo de comunicacao, ou deixalo por padrao em 10 segundos, e usando o toggle podemos iniciar a nossa localização.
+
+Tambem temos dois botoes na nossa Home, um de status para visualizar on pontos salvos chamado Status e um de adicionar os pontos a ela de Status chamado AddStorage.
+
+Na nossa tela de status ficam guardados todos os nossos pontos adcionados em uma flatlist, e, quando quisermos enviar nossos ponos ao servidor so basta tocar no ponto que quiser e ele sera removido do storage asincrono e enviado ao server.
 
 ## Imagens
 
