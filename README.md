@@ -43,20 +43,26 @@ npx react-native run-android
 ```
 
 Para fazer login ja temos um usuario teste e uma senha configurados.
+
+User:
  
 ```
 ola@gmail.com
 ```
+
+Senha:
  
 ```
 12345678
 ```
 
-Feito o login temos a nossa tela inicial onde com um cliue podemos definir o nosso intervalo de comunicacao, ou deixalo por padrao em 10 segundos, e usando o toggle podemos iniciar a nossa localização.
+Feito o login temos a nossa tela inicial onde com um clique podemos definir o nosso intervalo de comunicação, ou deixá-lo por padrão em 10 segundos, e usando o toggle podemos iniciar a nossa localização.
 
-Tambem temos dois botoes na nossa Home, um de status para visualizar on pontos salvos chamado Status e um de adicionar os pontos a ela de Status chamado AddStorage.
+Tambem temos dois botoes na nossa Home, um de status para visualizar os pontos salvos chamado Status e um de adicionar os pontos a ela de Status chamado AddStorage.
 
-Na nossa tela de status ficam guardados todos os nossos pontos adcionados em uma flatlist, e, quando quisermos enviar nossos ponos ao servidor so basta tocar no ponto que quiser e ele sera removido do storage asincrono e enviado ao server.
+Na nossa tela de status, ficam guardados todos os nossos pontos adcionados em uma flatlist e quando quisermos enviar nossos ponos ao servidor, basta tocar no ponto que quisermos e ele sera removido do storage asincrono e enviado ao server.
+
+Caso nao tenha conexão com a internet basta ir guardando os pontos no Local storage que depois voce pode envialos, quando tiver Conexão.
 
 ## Imagens
 
